@@ -1,4 +1,4 @@
-from game import init_game
+from game_copy import init
 
 if __name__ == "__main__":
-    init_game()
+    init()

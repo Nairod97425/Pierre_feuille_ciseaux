@@ -59,9 +59,18 @@ def init_game():
         # Score
         print("\n=== Score 🏆 ===")
         print(f"Nombre de partie : {nbre_partie}, Score utilisateur : {score_user}, Score IA:{score_IA}, Égalités : {egalite}")
-
-        # Rejouer
+        rejouer()
+ # Rejouer
+def rejouer():
+    while True:
         try_again = input("\nVeux tu rejouer ? (o/n) ").lower()
-        if try_again != "o":
+        if try_again == "o":
+            return
+        elif try_again == "n":
             print("Merci d'avoir jouer ! À bientôt ! 🤗")
-            break
+            sys.exit()
+        else:
+            print
+        
+# init_game()      
+            
