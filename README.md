@@ -21,11 +21,11 @@ Ce projet est un jeu de "Pierre, Feuille, Ciseaux" en Python, jouable dans le te
 
 Lance le jeu avec la commande suivante :
 ```
-python game_copy.py
+python main.py
 ```
 
 ## Fichiers
-
+- main.py : fichier d'initilisation
 - `game_copy.py` : Fichier principal du jeu.
 
 ## Auteur
