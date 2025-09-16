@@ -48,3 +48,4 @@
 
 ---
 
+**Observation genérale:** : Jeu clair et fonctionnel. Petite confusion dans le READ.ME sur le fichier à lancer mais de toute façon le défaut c'est main.py. ===> 9.9/10
