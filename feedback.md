@@ -7,6 +7,7 @@
 # Feedback – Projet Pierre–Feuille–Ciseaux
 
 ---
+BINOME CORRIGÉ:
 
 ## ✅ Points positifs
 
@@ -47,5 +48,6 @@
 - **Multijoueur local** : Permettre à deux joueurs de s’affronter sur la même machine.
 
 ---
+BINOME CORRECTEUR:
 
 **Observation genérale:** : Jeu clair et fonctionnel. Petite confusion dans le READ.ME sur le fichier à lancer mais de toute façon le défaut c'est main.py. ===> 9.9/10
