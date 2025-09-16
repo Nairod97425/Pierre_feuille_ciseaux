@@ -1,6 +1,7 @@
 import random
 
 def init():
+    
     # Liste des choix possibles
     liste = ["pierre", "feuille", "ciseaux"]
 
